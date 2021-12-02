@@ -15,7 +15,7 @@ Install this plugin in the same environment as Datasette.
 
 ## Usage
 
-Usage instructions go here.
+Once installed, hovering over a link to a row within the Datasette interface - for example a foreign key reference on the table page - should show a hovercard with a preview of that row.
 
 ## Development
 
