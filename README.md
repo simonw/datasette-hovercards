@@ -17,6 +17,10 @@ Install this plugin in the same environment as Datasette.
 
 Once installed, hovering over a link to a row within the Datasette interface - for example a foreign key reference on the table page - should show a hovercard with a preview of that row.
 
+For a live demo, hover over values in the `user`, `milestone` or `repo` columns on this table page:
+
+https://latest-with-plugins.datasette.io/github/issues
+
 ## Development
 
 To set up this plugin locally, first checkout the code. Then create a new virtual environment:
